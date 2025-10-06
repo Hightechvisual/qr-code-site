@@ -61,7 +61,7 @@ I’m not used to concepts like Grid and Flexbox, so this was a great opportunit
 
 ### Useful resources
 
-J'ai juste utlise VS code 
+I just used VS Code. 
 
 ## Author
 
