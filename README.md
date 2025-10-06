@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Here’s a screenshot of my browser. You can see the result of my work.
 I’m not really sure what else to write, so let’s leave it at that.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -31,7 +30,7 @@ I’m not really sure what else to write, so let’s leave it at that.
 
 ## My process
 
-First of all i
+I was really lost at first and didn’t know where to start. I used Grid for everything related to the body and Flexbox to organize the card itself.
 
 ### Built with
 
@@ -41,7 +40,6 @@ First of all i
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -55,30 +53,23 @@ use hsl(h:'hue', s:'saturation', l:'lightness') for color.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-I am not comfortable with notion like flexbox and grid in css. So i want to build more projects to mastery those notions.
-The way to structure or organize the code like with class or id so i can use it more efficiently in my css.
-I have also to learn more about css attributs and what effect they have on the code so i can use more naturaly
+I’m not used to concepts like Grid and Flexbox, so this was a great opportunity to strengthen my understanding of them. I also learned more about organizing my HTML code — especially with tags, classes, and so on. I discovered new CSS properties and got a better grasp of how everything fits together. So I’m really happy about it.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+J'ai juste utlise VS code 
 
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hightechvisual)
+- Frontend Mentor - [@Hightechvisual](https://www.frontendmentor.io/profile/Hightechvisual)
 - Twitter - [@mayiwilliam](https://x.com/mayiwilliam?t=Gg_xHm-Ms27YJzwSY646Pg&s=09)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+The project was inspired by Frontend Mentor. It’s a site I just discovered. I recently finished learning HTML and CSS, so I needed to strengthen my skills. Thanks to Frontend Mentor and its many ready-made project ideas, I just have to start coding, and that’s it. I have a base visual to follow and can build from there. Thank you so much — this platform is going to help me a lot.
