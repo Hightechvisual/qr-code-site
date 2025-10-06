@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 320px;
+    width: 90%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.card:hover img {
+    transform: scale(1.05);
+}
+
+.card h2 {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    color: hsl(218, 44%, 22%);
+}
+
+.card p {
+    color: hsl(220, 15%, 55%);
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media screen and (max-width: 480px){
+    .card {
+        padding: 15px;
+        border-radius: 10px;
+    }
+
+    .card h1 {
+        font-size: 1rem;
+    }
+
+    .card p {
+        font-size: 0.85rem;
+    }
+}
