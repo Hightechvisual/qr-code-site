@@ -4,6 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
+- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+## Overview
 
 ### Screenshot
 
@@ -21,7 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Here’s a screenshot of my browser. You can see the result of my work.
 I’m not really sure what else to write, so let’s leave it at that.
-
 
 ### Links
 
@@ -40,7 +41,6 @@ I was really lost at first and didn’t know where to start. I used Grid for eve
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
 ```css
@@ -53,22 +53,20 @@ use hsl(h:'hue', s:'saturation', l:'lightness') for color.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-
 ### Continued development
 
 I’m not used to concepts like Grid and Flexbox, so this was a great opportunity to strengthen my understanding of them. I also learned more about organizing my HTML code — especially with tags, classes, and so on. I discovered new CSS properties and got a better grasp of how everything fits together. So I’m really happy about it.
 
-
 ### Useful resources
 
-I just used VS Code. 
+I just used VS Code.
 
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
+
 - Frontend Mentor - [@Hightechvisual](https://www.frontendmentor.io/profile/Hightechvisual)
 - Twitter - [@mayiwilliam](https://x.com/mayiwilliam?t=Gg_xHm-Ms27YJzwSY646Pg&s=09)
-
 
 ## Acknowledgments
 
